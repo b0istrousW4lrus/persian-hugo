@@ -9,3 +9,5 @@ fields:
   name: description
   label: description
   description: this is meta description
+pages:
+- exampleSite/content/post/test1.md
