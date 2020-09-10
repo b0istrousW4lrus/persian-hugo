@@ -9,7 +9,7 @@ title = "DJ Request Live"
 unsafe = true
 [[menu.main]]
 URL = "/"
-name = "Request It!"
+name = "Home"
 weight = 1
 [outputs]
 home = ["HTML", "RSS", "json"]
