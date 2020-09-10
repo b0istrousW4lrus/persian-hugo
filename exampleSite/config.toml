@@ -4,11 +4,11 @@ languageCode = "en-us"
 languageName = "En"
 paginate = "5"
 theme = ""
-title = "DJ Request Live"
+title = "DJ Request Live!"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-URL = "/"
+URL = ""
 name = "Request It!"
 weight = 1
 [outputs]
