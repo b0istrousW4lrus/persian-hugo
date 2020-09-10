@@ -8,16 +8,12 @@ fields:
 - type: text
   name: image
   label: image
-- type: text
-  name: email
-  label: email
-- type: field_group_list
-  name: social
-  label: social
-  fields:
-  - type: text
-    name: icon
-    label: icon
-  - type: text
-    name: link
-    label: link
+- name: artist
+  type: text
+  config:
+    required: false
+  label: Artist
+  description: '&lt;iframe src="<a href="https://docs.google.com/forms/d/e/1FAIpQLSdQOAXhX70Vpyimlz7QdQlhhBYteB5IQGZu9ifTbnldoALRRA/viewform?embedded=true"
+    title="https://docs.google.com/forms/d/e/1FAIpQLSdQOAXhX70Vpyimlz7QdQlhhBYteB5IQGZu9ifTbnldoALRRA/viewform?embedded=true"
+    target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSdQOAXhX70Vpyimlz7QdQlhhBYteB5IQGZu9ifTbnldoALRRA/viewform?embedded=true</a>"
+    width="640" height="673" frameborder="0" marginheight="0" marginwidth="0"&gt;Loading…&lt;/iframe&gt;'
