@@ -20,8 +20,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: Others Page
 - type: document
   path: exampleSite/content/about/_index.md
   label: About
